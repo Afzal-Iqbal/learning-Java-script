@@ -5,5 +5,5 @@ for (var i = 0; i < 5; i++) {
     row += countcolumns + " "; 
     countcolumns++;
   }
-  console.log(row);
+  console.log(row)
 }
